@@ -1,0 +1,80 @@
+body{
+    background: linear-gradient(225deg,#f0c6bf 0%, #f0c5be 50%, #c9e1da 100%);
+    background-repeat: no-repeat;
+    padding: 50;
+}
+div {
+    margin: auto;
+    display: inline-block;
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+    
+    /* margin: 10px; */
+}
+.big-circle{
+    margin: 150px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #355c7d;
+}
+.smallcircle1 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: #60b99a;
+}
+.smallcircle2 {
+    padding: 30px;
+    margin: 15px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+/* 2nd circle */
+
+.big-circle2{
+    padding: 25px;
+    border-radius: 50%;
+    background-color: #6c5b7b;
+}
+.smallcircle22 {
+    padding: 50px;
+    border-radius: 50%;
+    background-color: #f67280;
+}
+.smallcircle222 {
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+/* 3rd circle */
+
+.big-circle3{
+    margin: 150px;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #6c5b7b;
+}
+.smallcircle33 {
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #f67280;
+}
+.smallcircle333 {
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #355c7d;
+}
+.smallcircle3333 {
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #60b99a;
+}
+.smallcircle33333 {
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+}
